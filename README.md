@@ -1,2 +1,6 @@
 # Portfolio
 Este repositorio contiene mis proyectos personales de programación, que incluyen modelos de clasificación y regresión, así como programación lineal entera mixta.
+
+La carpeta de programación lineal entera mixta contiene todo el código que implementé en Gurobipy para mi Tesis de Licenciatura en Ciencias de Datos acerca de la búsqueda de la misión más corta posible de exploración con drones y un vehículo complementario para recarga, así como mi tesis completa donde se expone cómo construí el modelo matemático para luego implementarlo y los resultados experimentales. El código que crea instancias de experimentación fue tomado de un repositorio público de los autores del paper de referencia; yo construí la adaptación de esas instancias a mi propio código implementado.
+
+La carpeta de clasificación y regresión contiene el trabajo que hice para afrontar problemas realistas de clasificación y regresión con bases de datos conocidas. Le pedí el conjunto de problemas a resolver a Claude, y a partir de ellos desarrollé caminos posibles de resolución usando mis conocimientos en ese campo. También se expone en los documentos cómo pensé los problemas y por qué tomo las decisiones, así como los resultados obtenidos.
