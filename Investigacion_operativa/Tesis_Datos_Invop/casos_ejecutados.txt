@@ -1,0 +1,163 @@
+ultimo_indice_ejecutado; discretizacion; modelo; D; G; indice
+0; 11x11; damero; 1; 5; 0
+1; 11x11; damero; 1; 5; 4
+2; 11x11; damero; 1; 5; 2
+3; 11x11; damero; 1; 10; 0
+4; 11x11; damero; 1; 10; 4
+5; 11x11; damero; 1; 10; 2
+6; 11x11; completa 1; 1; 5; 0
+7; 11x11; completa 1; 1; 5; 4
+8; 11x11; completa 1; 1; 5; 2
+9; 11x11; completa 1; 1; 10; 0
+10; 11x11; completa 1; 1; 10; 4
+11; 11x11; completa 1; 1; 10; 2
+12; 11x11; completa 2; 1; 5; 0
+13; 11x11; completa 2; 1; 5; 4
+14; 11x11; completa 2; 1; 5; 2
+15; 11x11; completa 2; 1; 10; 0
+16; 11x11; completa 2; 1; 10; 4
+17; 11x11; completa 2; 1; 10; 2
+18; 11x11; damero; 2; 5; 0
+19; 11x11; damero; 2; 5; 4
+20; 11x11; damero; 2; 5; 2
+21; 11x11; damero; 2; 10; 0
+22; 11x11; damero; 2; 10; 4
+23; 11x11; damero; 2; 10; 2
+24; 11x11; completa 1; 2; 5; 0
+25; 11x11; completa 1; 2; 5; 4
+26; 11x11; completa 1; 2; 5; 2
+27; 11x11; completa 1; 2; 10; 0
+28; 11x11; completa 1; 2; 10; 4
+29; 11x11; completa 1; 2; 10; 2
+30; 11x11; completa 2; 2; 5; 0
+31; 11x11; completa 2; 2; 5; 4
+32; 11x11; completa 2; 2; 5; 2
+33; 11x11; completa 2; 2; 10; 0
+34; 11x11; completa 2; 2; 10; 4
+35; 11x11; completa 2; 2; 10; 2
+36; 11x11; damero; 3; 5; 0
+37; 11x11; damero; 3; 5; 4
+38; 11x11; damero; 3; 5; 2
+39; 11x11; damero; 3; 10; 0
+40; 11x11; damero; 3; 10; 4
+41; 11x11; damero; 3; 10; 2
+42; 11x11; completa 1; 3; 5; 0
+43; 11x11; completa 1; 3; 5; 4
+44; 11x11; completa 1; 3; 5; 2
+45; 11x11; completa 1; 3; 10; 0
+46; 11x11; completa 1; 3; 10; 4
+47; 11x11; completa 1; 3; 10; 2
+48; 11x11; completa 2; 3; 5; 0
+49; 11x11; completa 2; 3; 5; 4
+50; 11x11; completa 2; 3; 5; 2
+51; 11x11; completa 2; 3; 10; 0
+52; 11x11; completa 2; 3; 10; 4
+53; 11x11; completa 2; 3; 10; 2
+54; 21x21; damero; 1; 5; 0
+55; 21x21; damero; 1; 5; 4
+56; 21x21; damero; 1; 5; 2
+57; 21x21; damero; 1; 10; 0
+58; 21x21; damero; 1; 10; 4
+59; 21x21; damero; 1; 10; 2
+60; 21x21; completa 1; 1; 5; 0
+61; 21x21; completa 1; 1; 5; 4
+62; 21x21; completa 1; 1; 5; 2
+63; 21x21; completa 1; 1; 10; 0
+64; 21x21; completa 1; 1; 10; 4
+65; 21x21; completa 1; 1; 10; 2
+66; 21x21; completa 2; 1; 5; 0
+67; 21x21; completa 2; 1; 5; 4
+68; 21x21; completa 2; 1; 5; 2
+69; 21x21; completa 2; 1; 10; 0
+70; 21x21; completa 2; 1; 10; 4
+71; 21x21; completa 2; 1; 10; 2
+72; 21x21; damero; 2; 5; 0
+73; 21x21; damero; 2; 5; 4
+74; 21x21; damero; 2; 5; 2
+75; 21x21; damero; 2; 10; 0
+76; 21x21; damero; 2; 10; 4
+77; 21x21; damero; 2; 10; 2
+78; 21x21; completa 1; 2; 5; 0
+79; 21x21; completa 1; 2; 5; 4
+80; 21x21; completa 1; 2; 5; 2
+81; 21x21; completa 1; 2; 10; 0
+82; 21x21; completa 1; 2; 10; 4
+83; 21x21; completa 1; 2; 10; 2
+84; 21x21; completa 2; 2; 5; 0
+85; 21x21; completa 2; 2; 5; 4
+86; 21x21; completa 2; 2; 5; 2
+87; 21x21; completa 2; 2; 10; 0
+88; 21x21; completa 2; 2; 10; 4
+89; 21x21; completa 2; 2; 10; 2
+90; 21x21; damero; 3; 5; 0
+91; 21x21; damero; 3; 5; 4
+92; 21x21; damero; 3; 5; 2
+93; 21x21; damero; 3; 10; 0
+94; 21x21; damero; 3; 10; 4
+95; 21x21; damero; 3; 10; 2
+96; 21x21; completa 1; 3; 5; 0
+97; 21x21; completa 1; 3; 5; 4
+98; 21x21; completa 1; 3; 5; 2
+99; 21x21; completa 1; 3; 10; 0
+100; 21x21; completa 1; 3; 10; 4
+101; 21x21; completa 1; 3; 10; 2
+102; 21x21; completa 2; 3; 5; 0
+103; 21x21; completa 2; 3; 5; 4
+104; 21x21; completa 2; 3; 5; 2
+105; 21x21; completa 2; 3; 10; 0
+106; 21x21; completa 2; 3; 10; 4
+107; 21x21; completa 2; 3; 10; 2
+108; 5x5; damero; 1; 5; 0
+109; 5x5; damero; 1; 5; 4
+110; 5x5; damero; 1; 5; 2
+111; 5x5; damero; 1; 10; 0
+112; 5x5; damero; 1; 10; 4
+113; 5x5; damero; 1; 10; 2
+114; 5x5; completa 1; 1; 5; 0
+115; 5x5; completa 1; 1; 5; 4
+116; 5x5; completa 1; 1; 5; 2
+117; 5x5; completa 1; 1; 10; 0
+118; 5x5; completa 1; 1; 10; 4
+119; 5x5; completa 1; 1; 10; 2
+120; 5x5; completa 2; 1; 5; 0
+121; 5x5; completa 2; 1; 5; 4
+122; 5x5; completa 2; 1; 5; 2
+123; 5x5; completa 2; 1; 10; 0
+124; 5x5; completa 2; 1; 10; 4
+125; 5x5; completa 2; 1; 10; 2
+126; 5x5; damero; 2; 5; 0
+127; 5x5; damero; 2; 5; 4
+128; 5x5; damero; 2; 5; 2
+129; 5x5; damero; 2; 10; 0
+130; 5x5; damero; 2; 10; 4
+131; 5x5; damero; 2; 10; 2
+132; 5x5; completa 1; 2; 5; 0
+133; 5x5; completa 1; 2; 5; 4
+134; 5x5; completa 1; 2; 5; 2
+135; 5x5; completa 1; 2; 10; 0
+136; 5x5; completa 1; 2; 10; 4
+137; 5x5; completa 1; 2; 10; 2
+138; 5x5; completa 2; 2; 5; 0
+139; 5x5; completa 2; 2; 5; 4
+140; 5x5; completa 2; 2; 5; 2
+141; 5x5; completa 2; 2; 10; 0
+142; 5x5; completa 2; 2; 10; 4
+143; 5x5; completa 2; 2; 10; 2
+144; 5x5; damero; 3; 5; 0
+145; 5x5; damero; 3; 5; 4
+146; 5x5; damero; 3; 5; 2
+147; 5x5; damero; 3; 10; 0
+148; 5x5; damero; 3; 10; 4
+149; 5x5; damero; 3; 10; 2
+150; 5x5; completa 1; 3; 5; 0
+151; 5x5; completa 1; 3; 5; 4
+152; 5x5; completa 1; 3; 5; 2
+153; 5x5; completa 1; 3; 10; 0
+154; 5x5; completa 1; 3; 10; 4
+155; 5x5; completa 1; 3; 10; 2
+156; 5x5; completa 2; 3; 5; 0
+157; 5x5; completa 2; 3; 5; 4
+158; 5x5; completa 2; 3; 5; 2
+159; 5x5; completa 2; 3; 10; 0
+160; 5x5; completa 2; 3; 10; 4
+161; 5x5; completa 2; 3; 10; 2
