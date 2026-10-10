@@ -1,0 +1,3 @@
+Esta carpeta tiene el código y los archivos csv que generó. Para poder recrearlos, así como obtener los datos de mediciones necesarios para entrenar y evaluar la red neuronal, es necesario descargar la carpeta ptb-xl, en nuestro caso con la subcarpeta records100, que contiene mediciones de 1000 instantes de tiempo por cada paciente (a diferencia de records500 que contiene 5000).
+
+Todo esto se puede obtener gratuitamente de la página web https://physionet.org/content/ptb-xl/.
